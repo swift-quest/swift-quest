@@ -4,3 +4,4 @@
 2. [複合代入演算子](compound-assignment-operators.md)
 3. [定数](constants.md)
 4. [実践: 1 ターンの戦闘](1-turn-battle.md)
+5. [コメント](comments.md)
