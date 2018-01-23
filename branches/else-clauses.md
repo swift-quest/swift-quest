@@ -106,7 +106,7 @@ TODO
 ### 問 2
 
 ```swift
-var hp = 30 // `hp` はどんな値でもいい
+var hp = 30 // 他の値でも良い
 let damage = 44
 
 print("HP \(hp)")

@@ -104,7 +104,7 @@ _リザレクション_ の魔法は死んでしまった仲間の HP を最大 
 
 ```swift
 let maxHP = 153
-var hp = 0 // `hp` はどんな値でもいい
+var hp = 0 // 他の値でも良い
 
 print("HP \(hp)")
 ```
@@ -131,7 +131,7 @@ print("MP \(mp)")
 
 ```swift
 let maxHP = 153
-var hp = 0 // `hp` はどんな値でもいい
+var hp = 0 // 他の値でも良い
 
 print("HP \(hp)")
 
